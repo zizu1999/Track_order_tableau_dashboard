@@ -6,6 +6,9 @@ This dashboard was built to support sales performance monitoring and control at 
 - **Net Sales**
 - **Gross Sales**
 
+![Descrizione alternativa](https://github.com/zizu1999/Tableau_Dashboard/blob/main/Screenshot%202025-07-22%20124157.png)
+
+
 All visualizations update accordingly to reflect the selected measure.
 
 **Core features**:
