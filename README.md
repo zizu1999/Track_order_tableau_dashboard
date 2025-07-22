@@ -6,7 +6,7 @@ This dashboard was built to support sales performance monitoring and control at 
 - **Net Sales**
 - **Gross Sales**
 
-![Descrizione alternativa](https://github.com/zizu1999/Tableau_Dashboard/blob/main/Screenshot%202025-07-22%20124157.png)
+![Descrizione alternativa](https://github.com/zizu1999/Track_order_tableau_dashboard/blob/main/Screenshot%202025-07-22%20145350.png)
 
 
 All visualizations update accordingly to reflect the selected measure.
